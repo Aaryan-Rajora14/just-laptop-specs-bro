@@ -83,3 +83,5 @@ He has not replied yet.
 ## 🏷️ Topics / Tags to add on GitHub
 ```
 html  css  javascript  laptop  specs  acer  gaming  rtx3050  system-info  no-dependencies
+
+A resume Like this is also Coming for the future.
