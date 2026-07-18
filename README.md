@@ -12,7 +12,7 @@ and a links tab with every product image from Amazon.
 
 He just wanted to know the RAM.
 
----
+-----
 
 ## 🖥️ What's Inside
 
