@@ -1,6 +1,6 @@
 # just-laptop-specs-bro 💻
 
-Specs Link - https://aaryan-rajora14.github.io/just-laptop-specs-bro/
+click to see - https://aaryan-rajora14.github.io/just-laptop-specs-bro/
 
 > "Hey what specs does your new laptop have?"
 > "Give me an hour."
