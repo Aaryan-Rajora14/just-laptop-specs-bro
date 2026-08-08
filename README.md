@@ -84,4 +84,4 @@ He has not replied yet.
 ```
 html  css  javascript  laptop  specs  acer  gaming  rtx3050  system-info  no-dependencies
 
-A resume Like this is also Coming for the future.
+A resume Like this has also arrived check this link - 
