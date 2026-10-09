@@ -5,7 +5,7 @@ click to see - https://aaryan-rajora14.github.io/just-laptop-specs-bro/
 > "Hey what specs does your new laptop have?"
 > "Give me an hour."
 
-My friend **Kansal** (or whoever) texted asking about my new Acer.
+My friend **President Putin** (or whoever) texted asking about my new Acer.
 Normal people send a screenshot. I spent an hour building a full interactive
 HTML system profile with animations, a port diagram, a performance page,
 and a links tab with every product image from Amazon.
